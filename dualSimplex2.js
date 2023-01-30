@@ -14,8 +14,6 @@ function genera_tabla() {
   document.querySelector(".container2").appendChild(seleccionar);
     document.querySelector(".container2").appendChild(newElement);
   }
-  
-  genera_tabla();
-  
+ 
 
 
