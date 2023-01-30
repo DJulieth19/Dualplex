@@ -7,7 +7,7 @@ var cantidadVariables = urlParams.get('CantidadVariables');
 console.log(cantidadVariables);
 console.log(cantidadRestricciones);
 
-//Construir matriz n * m
+//Construir matriz n * m aaaaaaaaa
 function genera_tabla() {
   const newElement = document.createElement("div");
   const seleccionar = document.createElement("select");
